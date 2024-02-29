@@ -1,5 +1,8 @@
 # SpeedTest
-Aplicação para testar a velocidade da internet
+Aplicação para testar a velocidade da internet.
+
+![image](https://github.com/marquescharlon/SpeedTest/assets/22162514/f4f5258e-394f-47b2-ae51-77390cb32a5b)
+
 
 ## Biblioteca utilizada
 ```speedtest```
@@ -15,4 +18,4 @@ Aplicação para testar a velocidade da internet
 
 # Conclusão
 
-Esse repositório foi criado como parte de uma automatização pessoal.
+Repositório criado como parte de uma automatização pessoal.
