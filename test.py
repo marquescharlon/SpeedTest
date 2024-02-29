@@ -16,5 +16,7 @@ def main() -> None:
     print(f"A velocidade de download: {speed_download} Megabyte(s)")
     print(f"A velocidade upload: {speed_upload} Megabyte(s)")
 
+    input()  #Para manter a janela aberta, comentar essa linha se quiser fechar automaticamente
+
 if __name__ == '__main__':
     main()
