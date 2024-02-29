@@ -18,4 +18,4 @@ Aplicação para testar a velocidade da internet.
 
 # Conclusão
 
-Repositório criado como parte de uma automatização pessoal.
+Repositório criado como parte de uma automatização.
